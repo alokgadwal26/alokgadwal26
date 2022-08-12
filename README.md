@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.vegamoontech.com/wp-content/uploads/2020/03/head.jpg)
 <h1 align="center">Hi 👋, I'm Alok Gadwal</h1>
 <h3 align="center">A passionate web development from India</h3>
 
