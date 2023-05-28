@@ -1,6 +1,5 @@
 ![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
-<h1 align="center">Hi 👋, I'm Alok Gadwal</h1>
-<h3 align="center">A passionate web development from India</h3>
+<h3 align="center"I am Alok Gadwal. I completed my Bachelor's degree in Computer Science Engineering 👩‍🎓 form Gurukul Institute of Engineering and Technology, Kota Rajasthan. I am passionate learner who's always willing to learn and work across technologies. I love to explore new things & technologies and try to solve real life Problems. I am currently into Front End Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokgadwal26&label=Profile%20views&color=0e75b6&style=flat" alt="alokgadwal26" /> </p>
 
