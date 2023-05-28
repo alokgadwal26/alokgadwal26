@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything, I am happy to help.**
 
-- 📫 How to reach me **rajshreekhadgi123@gmail.com**
+- 📫 How to reach me **alokgadwal26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokgadwal26&show_icons=true&locale=en&layout=compact" alt="alokgadwal26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokgadwal26&show_icons=true&locale=en" alt="alokgadwal26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokgadwal26&show_icons=true&locale=en" alt="alokgadwal26"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokgadwal26&" alt="alokgadwal26" /></p>
