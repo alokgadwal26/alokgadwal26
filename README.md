@@ -1,13 +1,16 @@
-![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
-<h3 align="center"I am Alok Gadwal. I completed my Bachelor's degree in Computer Science Engineering 👩‍🎓 form Gurukul Institute of Engineering and Technology, Kota Rajasthan. I am passionate learner who's always willing to learn and work across technologies. I love to explore new things & technologies and try to solve real life Problems. I am currently into Front End Development.</h3>
+<h1 align="center">Hey there 👋, I'm Alok Gadwal </h1>
+<h3 align="left">About Me</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokgadwal26&label=Profile%20views&color=0e75b6&style=flat" alt="alokgadwal26" /> </p>
+<p align="left">I am Alok Gadwal. I completed my Bachelor's degree in Computer Science Engineering 👩‍🎓 form Gurukul Institute of Engineering and Technology, Kota Rajasthan. I am passionate learner who's always willing to learn and work across technologies. I love to explore new things & technologies and try to solve real life Problems. I am currently into Front End Development.</p>
 
-- 🌱 I’m currently learning **React**
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajshreekhadgi123&label=Profile%20views&color=0e75b6&style=flat" alt="rajshreekhadgi123" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://alokgadwal26.github.io/portfolio/](https://alokgadwal26.github.io/portfolio/)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **alokgadwal26@gmail.com**
+- 💬 Ask me about **anything, I am happy to help.**
+
+- 📫 How to reach me **rajshreekhadgi123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
